@@ -27,6 +27,10 @@
                 <behavior>Readonly</behavior>
                 <field>Joining_Date__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Testing__c</field>
+            </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
     </layoutSections>
